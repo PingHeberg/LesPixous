@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33679731/README.md)
 # 👾 Les Pixous
 
 **Un monde en pixel art qui prend vie avec ton chat Twitch.**
@@ -7,10 +6,27 @@ Chaque viewer qui écrit dans le chat fait apparaître son petit personnage en p
 
 Un seul fichier HTML, zéro installation, zéro serveur : une source navigateur dans OBS et c'est parti.
 
+![Les Pixous : un raid débarque en parachute](screenshots/raid.png)
+
 > Créé par **Appo** (PingHeberg) pour la chaîne [twitch.tv/hynatadj](https://www.twitch.tv/hynatadj), où ils tournent en direct.
 > Aussi en service chez [DrDrenelle_live](https://www.twitch.tv/drdrenelle_live).
 
-**Sommaire** : [L'idée](#-lidée) · [Comment c'est fait](#️-comment-cest-fait) · [De la v1 à la v2](#-les-étapes-de-la-v1-à-la-v2) · [Ce que font les Pixous](#-ce-que-font-les-pixous) · [Les événements](#-les-événements) · [Halloween](#-halloween) · [Commandes viewers](#-commandes-viewers) · [Commandes modos](#️-commandes-modos) · [Le panneau F1](#️-le-panneau-de-réglages-f1) · [Raccourcis clavier](#️-raccourcis-clavier) · [Installation](#-installation) · [Et après](#️-et-après)
+**Sommaire** : [Galerie](#-galerie) · [L'idée](#-lidée) · [Comment c'est fait](#️-comment-cest-fait) · [De la v1 à la v2](#-les-étapes-de-la-v1-à-la-v2) · [Ce que font les Pixous](#-ce-que-font-les-pixous) · [Les événements](#-les-événements) · [Halloween](#-halloween) · [Commandes viewers](#-commandes-viewers) · [Commandes modos](#️-commandes-modos) · [Le panneau F1](#️-le-panneau-de-réglages-f1) · [Raccourcis clavier](#️-raccourcis-clavier) · [Installation](#-installation) · [Et après](#️-et-après)
+
+---
+
+## 📸 Galerie
+
+| | |
+|---|---|
+| ![Jour et nuit](screenshots/nuit.png) **Nuit à l'heure réelle** | ![Foule](screenshots/foule.png) **50 Pixous à l'écran** |
+| ![La Traque](screenshots/traque.png) **La Traque** | ![La Nuit hantée](screenshots/nuit_hantee.png) **La Nuit hantée** |
+| ![Grande Chasse](screenshots/chasse.png) **La Grande Chasse** | ![Course](screenshots/course.png) **Course de chevaux** |
+| ![Boss dragon](screenshots/boss.png) **Boss : le dragon** | ![OVNI](screenshots/ovni.png) **Invasion OVNI** |
+| ![Quiz](screenshots/quiz.png) **Quiz** | ![Tir à la corde](screenshots/corde.png) **Tir à la corde** |
+| ![Trésor](screenshots/tresor.png) **Chasse au trésor** | ![Tournoi](screenshots/tournoi.png) **Tournoi de duels** |
+| ![Météores](screenshots/meteores.png) **Pluie de météores** | ![Élection](screenshots/election.png) **Élection du maire** |
+| ![Halloween](screenshots/halloween.png) **Halloween** | ![Zombies](screenshots/zombies.png) **Zombies** |
 
 ---
 
