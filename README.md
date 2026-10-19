@@ -5,7 +5,7 @@
 Chaque viewer qui écrit dans le chat fait apparaître son petit personnage en parachute en bas de l'écran. Il vit sa vie tout seul (il mange, pêche, danse, se fait des amis, se bagarre, gagne de l'or), il se souvient des gens, il réagit à ce qui se dit… et il participe à des événements que le chat contrôle avec des commandes `!`.
 
 Un seul fichier HTML, zéro installation, zéro serveur : une source navigateur dans OBS et c'est parti.
-![Les Pixous ](75d04d3e-3c0b-44d0-a07a-0916d4ffb928.png.png)
+![Les Pixous ](75d04d3e-3c0b-44d0-a07a-0916d4ffb928.png)
 ![Les Pixous : un raid débarque en parachute](screenshots/raid.png)
 
 > Créé par **Appo** (PingHeberg) pour la chaîne [twitch.tv/hynatadj](https://www.twitch.tv/hynatadj), où ils tournent en direct.
