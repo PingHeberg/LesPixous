@@ -1,8 +1,8 @@
-# 🎞️ Les Pixous — Catalogue de GIFs
+# 🎞️ Les Pixous - Catalogue de GIFs
 
 [← Retour au projet LesPixous](../README.md) · [Voir le catalogue web](index.html) · [Données JSON](manifest.json)
 
-> **Collection 001 — 4 GIFs animés** : style pixel art, 288 × 288 px, fond transparent et animation en boucle. Ces dessins sont des **concepts graphiques** : ils ne reproduisent pas encore à l’identique les sprites 12 × 14 pixels de l’overlay original.
+> **Collection 001 - 4 GIFs animés** : style pixel art, 288 × 288 px, fond transparent et animation en boucle. Ces dessins sont des **concepts graphiques** : ils ne reproduisent pas encore à l’identique les sprites 12 × 14 pixels de l’overlay original.
 
 ![Planche du catalogue 001](visuels/catalogue_001.png)
 
