@@ -1,0 +1,71 @@
+{
+  "projet": "Les Pixous",
+  "version_catalogue": "001",
+  "mise_a_jour": "2026-11-09",
+  "elements": [
+    {
+      "id": "01_blob_violet",
+      "nom": "Blob violet",
+      "animation": "Saut joyeux",
+      "categorie": "joie",
+      "description": "Il saute de joie et remue avec enthousiasme.",
+      "fichier": "animations/01_blob_violet.gif",
+      "apercu": "apercus/01_blob_violet_apercu.png",
+      "largeur": 288,
+      "hauteur": 288,
+      "frames": 12,
+      "duree_ms": 1440,
+      "fond_transparent": true,
+      "boucle": true,
+      "statut": "concept_graphique"
+    },
+    {
+      "id": "02_robot",
+      "nom": "Petit robot",
+      "animation": "Clignement des LED",
+      "categorie": "technologie",
+      "description": "Ses lumières clignotent doucement.",
+      "fichier": "animations/02_robot.gif",
+      "apercu": "apercus/02_robot_apercu.png",
+      "largeur": 288,
+      "hauteur": 288,
+      "frames": 8,
+      "duree_ms": 1440,
+      "fond_transparent": true,
+      "boucle": true,
+      "statut": "concept_graphique"
+    },
+    {
+      "id": "03_grenouille",
+      "nom": "Grenouille",
+      "animation": "Petit bond",
+      "categorie": "mouvement",
+      "description": "Elle rebondit sur place.",
+      "fichier": "animations/03_grenouille.gif",
+      "apercu": "apercus/03_grenouille_apercu.png",
+      "largeur": 288,
+      "hauteur": 288,
+      "frames": 9,
+      "duree_ms": 1440,
+      "fond_transparent": true,
+      "boucle": true,
+      "statut": "concept_graphique"
+    },
+    {
+      "id": "04_fantome",
+      "nom": "Fantôme",
+      "animation": "Flotte et salue",
+      "categorie": "fantastique",
+      "description": "Il flotte et fait coucou.",
+      "fichier": "animations/04_fantome.gif",
+      "apercu": "apercus/04_fantome_apercu.png",
+      "largeur": 288,
+      "hauteur": 288,
+      "frames": 12,
+      "duree_ms": 1440,
+      "fond_transparent": true,
+      "boucle": true,
+      "statut": "concept_graphique"
+    }
+  ]
+}
