@@ -1,50 +1,29 @@
-# 🎞️ Les Pixous - Catalogue de GIFs
+<h1>Les Pixous : catalogue des animations</h1>
 
-[← Retour au projet LesPixous](../README.md) · [Voir le catalogue web](index.html) · [Données JSON](manifest.json)
+Collection 001 et 002 : 8 GIFs animés sur fond transparent, en pixel art 16-bit.
 
-> **Collection 001 - 4 GIFs animés** : style pixel art, 288 × 288 px, fond transparent et animation en boucle. Ces dessins sont des **concepts graphiques** : ils ne reproduisent pas encore à l’identique les sprites 12 × 14 pixels de l’overlay original.
+<img src="visuels/catalogue_001.png" alt="Catalogue Pixous 001">
 
-![Planche du catalogue 001](visuels/catalogue_001.png)
+<img src="visuels/catalogue_002.png" alt="Catalogue Pixous 002">
 
-## 🐾 Personnages animés
+<h2>Personnages et animations</h2>
 
-| Pixou | GIF animé | Animation | Télécharger |
-|:--|:--:|:--|:--|
-| **Blob violet** | <img src="animations/01_blob_violet.gif" width="144" alt="Blob violet animé"> | Saut joyeux | [GIF](animations/01_blob_violet.gif) · [PNG](apercus/01_blob_violet_apercu.png) |
-| **Petit robot** | <img src="animations/02_robot.gif" width="144" alt="Petit robot animé"> | Clignement des LED | [GIF](animations/02_robot.gif) · [PNG](apercus/02_robot_apercu.png) |
-| **Grenouille** | <img src="animations/03_grenouille.gif" width="144" alt="Grenouille animé"> | Petit bond | [GIF](animations/03_grenouille.gif) · [PNG](apercus/03_grenouille_apercu.png) |
-| **Fantôme** | <img src="animations/04_fantome.gif" width="144" alt="Fantôme animé"> | Flotte et salue | [GIF](animations/04_fantome.gif) · [PNG](apercus/04_fantome_apercu.png) |
+| Pixou | Animation | GIF |
+|:--|:--|:--:|
+| Blob violet | Saut joyeux | <img src="animations/01_blob_violet.gif" width="128" alt="Blob violet animé"> |
+| Petit robot | LED clignotantes | <img src="animations/02_robot.gif" width="128" alt="Petit robot animé"> |
+| Grenouille | Petit bond | <img src="animations/03_grenouille.gif" width="128" alt="Grenouille animé"> |
+| Fantôme | Flottement et salut | <img src="animations/04_fantome.gif" width="128" alt="Fantôme animé"> |
+| Chat Pixou | Danse et cligne des yeux | <img src="animations/05_chat.gif" width="128" alt="Chat Pixou animé"> |
+| Ninja Pixou | Bond furtif | <img src="animations/06_ninja.gif" width="128" alt="Ninja Pixou animé"> |
+| Pirate Pixou | Salue avec son sabre | <img src="animations/07_pirate.gif" width="128" alt="Pirate Pixou animé"> |
+| Dinosaure Pixou | Remue la queue | <img src="animations/08_dinosaure.gif" width="128" alt="Dinosaure Pixou animé"> |
 
-## 📁 Organisation
+<h2>Téléchargement</h2>
 
-```text
-gifs/
-├── README.md            ← Catalogue visible sur GitHub
-├── index.html           ← Galerie web (activable avec GitHub Pages)
-├── manifest.json        ← Index pour outil, site ou automatisation
-├── animations/          ← GIF animés sur fond transparent
-├── apercus/             ← Images PNG statiques
-└── visuels/             ← Planche du catalogue
-```
+Les GIFs sont dans le dossier `animations/`. Les PNG fixes sont dans `apercus/`.
+Le fichier `manifest.json` contient les liens et les informations techniques de chaque animation.
 
-## 🧩 Intégration
+Ces GIFs sont des concepts graphiques. Ils ne remplacent pas les sprites originaux du jeu ou de l’overlay.
 
-Vous pouvez afficher un personnage dans un README, une page web ou une source navigateur OBS :
-
-```html
-<img src="gifs/animations/01_blob_violet.gif" width="144" alt="Pixou violet animé">
-```
-
-> **Important :** l’exemple ci-dessus utilise un chemin relatif depuis la racine du dépôt. Depuis le dossier `gifs/`, enlevez le préfixe `gifs/`.
-
-Les liens CDN GitHub bruts peuvent aussi servir dans une application externe après publication (avec une URL complète et un commit ou un tag précis de préférence).
-
-## ➕ Ajouts à venir
-
-La collection peut s’enrichir avec les personnages originaux (chat, ninja, pirate, dino, champignon, pingouin, etc.) et de nouvelles actions : marche, danse, dodo, pêche, combat et réactions au chat.
-
-Conservez le nom d’origine d’un GIF déjà publié pour éviter de casser ses liens ; créez un nouvel identifiant pour une variante.
-
-## © Crédits et utilisation
-
-Collection de démonstration liée au projet **Les Pixous**, par Appo / PingHeberg. La présence des GIFs dans ce dépôt ne définit pas, à elle seule, une licence de réutilisation pour des tiers. Spécifier une licence explicite si une distribution externe est souhaitée.
+Créations pour le projet LesPixous, PingHeberg.
